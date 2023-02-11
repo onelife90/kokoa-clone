@@ -21,7 +21,7 @@
 .friends-screen__channel-header {
   display: flex;
   justify-content: space-between;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-top: var(--main-border);
   margin: var(--horizontal-space) 0px;
   padding-top: 15px;
   color: rgba(0, 0, 0, 0.5);
