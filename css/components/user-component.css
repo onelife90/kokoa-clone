@@ -7,6 +7,7 @@
   display: flex;
   align-items: center;
 }
+
 .user-component__avatar {
   width: 70px;
   height: 70px;
@@ -23,6 +24,11 @@
   margin-top: 8px;
   font-size: 17px;
   color: rgba(0, 0, 0, 0.5);
+}
+
+.user-comonent__subtitle i {
+  color: tomato;
+  margin-left: 10px;
 }
 
 .user-component__avatar--xl {
@@ -55,4 +61,8 @@
 .user-component__time {
   display: block;
   margin-bottom: 15px;
+}
+
+.user-comnonent__column--color {
+  color: #183153;
 }
