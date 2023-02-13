@@ -40,7 +40,7 @@
     <main class="main-screen main-chat">
       <div class="chats__timestamp">Sunday, Feb 12, 2023</div>
 
-      <div class="message-row">
+      <div class="message-row first-receive-message">
         <img src="img/ddokbaegi.jpg" />
         <div class="message-row__content">
           <span class="message__author">It's up to me</span>
@@ -51,7 +51,7 @@
         </div>
       </div>
 
-      <div class="message-row message-row--own">
+      <div class="message-row message-row--own first-send-message">
         <div class="message-row__content">
           <div class="message__info">
             <span class="message__bubble">Starving.</span>
@@ -60,7 +60,7 @@
         </div>
       </div>
 
-      <div class="message-row">
+      <div class="message-row second-receive-message">
         <img src="img/ddokbaegi.jpg" />
         <div class="message-row__content">
           <span class="message__author">It's up to me</span>
@@ -71,7 +71,7 @@
         </div>
       </div>
 
-      <div class="message-row message-row--own">
+      <div class="message-row message-row--own second-send-message">
         <div class="message-row__content">
           <div class="message__info">
             <span class="message__bubble">Boom!</span>
@@ -93,6 +93,10 @@
         </button>
       </div>
     </form>
+
+    <div id="no-mobile">
+      <span>Your screen is too big</span>
+    </div>
 
     <script
       src="https://kit.fontawesome.com/6478f529f2.js"
