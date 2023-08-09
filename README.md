@@ -37,14 +37,14 @@
 </div>
 <section>
     <div align=center>
-        <img src="https://bit.ly/448UjDP" width="300" />
-        <img src="https://bit.ly/44ZNIgr" width="300" />
-        <img src="https://bit.ly/3YuOHmn" width="300" />
+        <img src="https://bit.ly/448UjDP" width="200" />
+        <img src="https://bit.ly/44ZNIgr" width="200" />
+        <img src="https://bit.ly/3YuOHmn" width="200" />
     </div>
     <div align=center>
-        <img src="https://bit.ly/3Ov4cpL" width="300" />
-        <img src="https://bit.ly/3KBKrvv" width="300" />
-        <img src="https://bit.ly/3KAP5Kb" width="300" />
+        <img src="https://bit.ly/3Ov4cpL" width="200" />
+        <img src="https://bit.ly/3KBKrvv" width="200" />
+        <img src="https://bit.ly/3KAP5Kb" width="200" />
     </div>
 </section>
 <br>
