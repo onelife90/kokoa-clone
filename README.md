@@ -53,9 +53,9 @@
 <div align=center>
     <h1>👌 3 Things I've learned 👌</h1>
     <table border="1">
-        <th bgcolor="#389EAC"> Sort </th>
-        <th bgcolor="#389EAC"> Things </th>
-        <th bgcolor="#389EAC"> Summary </th>
+        <th> Sort </th>
+        <th> Things </th>
+        <th> Summary </th>
         <tr>
             <td>1</td> 
             <td>BEM<br>(Block Element Modifier)</td> 
@@ -68,7 +68,7 @@
         <tr>
             <td>2</td>
             <td>Components</td>
-            <td>Importing components into smaller units is easy to manage
+            <td>Importing components into smaller units is easy to manage<br>
                 <em>ex</em>:@import "components/nav-bar.css";
             </td>
         </tr>
